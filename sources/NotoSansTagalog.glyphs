@@ -1,6 +1,6 @@
 {
 .appVersion = "1342";
-copyright = "Copyright 2017 Google LLC. All Rights Reserved.";
+copyright = "Copyright 2017 Google Inc. All Rights Reserved.";
 customParameters = (
 {
 name = glyphOrder;
